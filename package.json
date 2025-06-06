@@ -1,0 +1,29 @@
+{
+  "name": "twillio-based-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sid-Miram/twillio-based-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sid-Miram/twillio-based-auth/issues"
+  },
+  "homepage": "https://github.com/Sid-Miram/twillio-based-auth#readme",
+  "devDependencies": {
+    "@types/node": "^22.15.30",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
