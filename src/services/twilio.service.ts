@@ -20,4 +20,3 @@ export async function sendNumericOtp(to: string, OTP: string) : Promise<MessageI
 
 
 
-
